@@ -1,0 +1,1 @@
+vless://1e00a4e2-a068-47fa-9a9b-988f5fa19afe@zi6sh-fb9vqt.doriancollier71.workers.dev:443?path=%2FOEpRgffmPYkq&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zi6sh-fb9vqt.doriancollier71.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zi6sh-fb9vqt.doriancollier71.workers.dev#QW%20%F0%9F%92%A4
