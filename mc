@@ -1,0 +1,1 @@
+vless://e044b470-991f-409d-80b0-fe21d1334f9e@69.46.46.69:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=3x-ui-production-2055.up.railway.app#Lufix-mci
