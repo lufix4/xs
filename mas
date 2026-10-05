@@ -1,8 +1,8 @@
-# Name = 188.114.99.0
+# Name = 91.148.248.80
 [Interface]
-PrivateKey = KFZ3Eg11pwGojBDLTaF9nt4Daa1uNbObRaBUi1fY7Xg=
-Address = 172.16.0.2,2606:4700:110:8b98:887f:2f18:d7d6:9f8e
-DNS = 1.1.1.1,2606:4700:4700::1111,1.0.0.1,2606:4700:4700::1001
+PrivateKey = 6NrYVGj+40KbAIKiY8AJej6KvsWSHCxxEKspEGeUznQ=
+Address = 100.64.19.193/32
+DNS = 198.18.0.1,198.18.0.2
 Jc = 4
 Jmin = 40
 Jmax = 70
@@ -16,6 +16,6 @@ H3 = 3
 H4 = 4
 
 [Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-Endpoint = 188.114.99.0:1074
-AllowedIPs = 0.0.0.0/1,128.0.0.0/1,::/1,8000::/1
+PublicKey = KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
+Endpoint = 91.148.248.80:51820
+AllowedIPs = 0.0.0.0/0
