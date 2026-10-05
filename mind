@@ -1,7 +1,7 @@
-# Name = 91.148.236.64
+# Name = 91.148.248.80
 [Interface]
-PrivateKey = OLwyaf9phF/A/a1/AYgBLuQR1SgWNiX0D9Gcg98cuHQ=
-Address = 100.64.25.91/32
+PrivateKey = mDZnTjXyEJDOsLtsbr90qgHZ7gDOd7AMlqh9raR0SXs=
+Address = 100.64.19.58/32
 DNS = 198.18.0.1,198.18.0.2
 Jc = 4
 Jmin = 40
@@ -17,5 +17,5 @@ H4 = 4
 
 [Peer]
 PublicKey = KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
-Endpoint = 91.148.236.64:51820
+Endpoint = 91.148.248.80:51820
 AllowedIPs = 0.0.0.0/0
