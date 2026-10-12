@@ -1,1 +1,9 @@
+[Interface]
+PrivateKey = GCv0eJVfkUOpmbCM7BsiagHfDgWwXZE92s2Nrrkfbnc=
+Address = 100.64.50.218/32
+DNS = 198.18.0.1,198.18.0.2
 
+[Peer]
+PublicKey = KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 91.148.246.201:51820
